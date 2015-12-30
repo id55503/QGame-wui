@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="QGame-wui:Web">
+    <output-path>$PROJECT_DIR$/target/</output-path>
+    <root id="archive" name="QGame-wui_Web.war">
+      <element id="artifact" artifact-name="QGame-wui:Web exploded" />
+    </root>
+  </artifact>
+</component>

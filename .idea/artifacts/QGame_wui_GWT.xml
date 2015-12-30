@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="QGame-wui:GWT">
+    <output-path>$PROJECT_DIR$/src/main/webapp/VAADIN/widgetsets</output-path>
+    <root id="root">
+      <element id="directory" name="VAADIN">
+        <element id="directory" name="widgetsets">
+          <element id="gwt-compiler-output" facet="QGame-wui/gwt/GWT" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
